@@ -11,9 +11,6 @@
 
 #define INIT_VAL_0 0
 
-#define TRUE 0
-#define FALSE 1
-
 #define SUCCESS 0
     
 int main(void) 
